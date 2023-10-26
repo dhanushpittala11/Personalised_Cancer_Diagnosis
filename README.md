@@ -1,1 +1,5 @@
 # Personalised_Cancer_Diagnosis
+
+A lot has been said during the past several years about how precision medicine and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated. But this is only partially happening due to the huge amount of manual work still required. Once sequenced, a cancer tumor can have thousands of genetic mutations. But the challenge is distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations (passengers). Currently this interpretation of genetic mutations is being done manually. This is a very time-consuming task where a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature.
+
+So, this project is about using Machine Learning algorithms to classify mutations and creating a significant value for clinical pathologists by reducing the time required for reviewing literature and classifying genetic mutations by hundreds of hours. You can find the dataset used for this project [here](https://www.kaggle.com/competitions/msk-redefining-cancer-treatment/overview/citation).
